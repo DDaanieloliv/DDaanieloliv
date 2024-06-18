@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor comprometido e apaixonado por tecnologia, focado em aprimorar minhas habilidades como desenvolvedor Back-end. Gosto de trabalhar em equipe e prezo pela boa comunicação. Minhas especialidades incluem Java, Java POO, JavaScript, SQL, e SpringBoot.
+Sou um desenvolvedor comprometido e apaixonado por tecnologia, focado em aprimorar minhas habilidades principalmente como desenvolvedor Back-end. Atualmente cursando Análise e Desenvolvimento de Sistemas na Faculdade Senac de Pernambuco. Gosto de trabalhar em equipe e prezo pela boa comunicação. Minhas especialidades incluem Java, Java POO, JavaScript, SQL e SpringBoot.
 
 ## Ferramentas e Tecnologias
 
