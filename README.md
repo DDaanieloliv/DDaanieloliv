@@ -12,6 +12,8 @@ Sou um desenvolvedor comprometido e apaixonado por tecnologia, focado em aprimor
 - SQL
 - Git / Github
 - Springboot
+- Python
+- Pandas
 
 ## Contato
 
