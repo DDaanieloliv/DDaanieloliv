@@ -18,4 +18,4 @@ Sou um desenvolvedor comprometido e apaixonado por tecnologia, focado em aprimor
 ## Contato
 
 - **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/daniel-oliveira-aba552251)
-- **Email:** [Meu Gmail](daniel0333v@gmail.com)
+- **Email:** daniel0333v@gmail.com
