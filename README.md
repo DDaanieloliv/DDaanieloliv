@@ -2,14 +2,14 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor comprometido e apaixonado por tecnologia, focado em aprimorar minhas habilidades principalmente como desenvolvedor Back-end. Atualmente cursando Análise e Desenvolvimento de Sistemas na Faculdade Senac de Pernambuco. Gosto de trabalhar em equipe e prezo pela boa comunicação. Minhas especialidades incluem Java, Java POO, JavaScript, SQL e SpringBoot.
+Desenvolvedor Fullstack com especialização em Java (Spring Boot) e Angular. Experiência no desenvolvimento de APIs REST escaláveis, construção de interfaces responsivas com foco em UX/UI, integração com bancos de dados PostgreSQL e implantação de aplicações em nuvem com Docker e AWS. Perfil proativo, comunicativo e colaborativo, com foco em soluções eficazes e trabalho em equipe.
 
 ## Ferramentas e Tecnologias
 
 - Java
-- Java POO
 - JavaScript
-- SQL
+- TypeScript
+- PosgreSQL
 - Git / Github
 - Springboot
 - Python
